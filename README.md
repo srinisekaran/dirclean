@@ -15,7 +15,7 @@ sh dirclean.sh zip
 sh dirclean.sh undo
 ```
 
-### Permanently Delete Files/ Empty Recycle Bin
+### Permanently Delete Files/Empty Recycle Bin
 ```bash
 sh dirclean.sh delete
 ```
