@@ -31,7 +31,7 @@ if [ "$#" -ne "0" ]; then
   if [ "$1" == "undo" ]; then  
     undo
   elif [ "$1" == "delete" ]; then
-  	delete
+    delete
   else
     mv *.$* $DIR/ || echo "No such files found!"
   fi 
