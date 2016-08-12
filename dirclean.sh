@@ -1,7 +1,7 @@
 #!/bin/bash 
 # CLI recycle bin for individual directories
 # Supply a file extension to recycle certain file types
-# Ability to undo, put back files, as well as permanently delete
+# Ability to put back files and permanently delete
 # Place bash script in the directory to clean up
 
 DIR="$(basename "$PWD"_trash)"
