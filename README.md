@@ -19,3 +19,7 @@ sh dirclean.sh undo
 ```bash
 sh dirclean.sh delete
 ```
+### View Files in Recycle Bin
+```bash
+sh dirclean.sh peek
+```
