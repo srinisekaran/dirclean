@@ -1,4 +1,4 @@
-# dirclean
+# Dirclean
 CLI recycle bin for directories.
 
 Move files from a directory to its individual recycle bin, undo actions and permanently delete files - all from the command line.
