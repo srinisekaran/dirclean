@@ -1,5 +1,5 @@
 # Dirclean
-CLI recycle bin for directories.
+Clean directories with ease. Quick Shell script to batch process files.
 
 Move files from a directory to its individual recycle bin, undo actions and permanently delete files - all from the command line.
 Place bash script in the directory to clean up.
